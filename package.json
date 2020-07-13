@@ -19,8 +19,6 @@
   "homepage": "https://github.com/turingschool-examples/post-it-server#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
-    "knex": "^0.21.2",
-    "pg": "^8.3.0"
+    "express": "^4.17.1"
   }
 }
