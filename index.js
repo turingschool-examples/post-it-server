@@ -39,13 +39,8 @@ app.locals = [
           score: 0,
           comments: [
             {
-              content: "I saw it too!",
+              content: "That's my mayor!",
               id: 154,
-              parentPost: 2
-            },
-            {
-              content: "I don't believe in hail",
-              id: 12345232,
               parentPost: 2
             }
           ]
