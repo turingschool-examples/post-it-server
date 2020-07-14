@@ -11,7 +11,7 @@ app.locals = [
           id: 1,
           title: "First Post",
           author: "Jake",
-          content: "Suckin' at something is the first step to being kinda good at something",
+          content: "Suckin' at something is the first step to being sorta good at something",
           score: 0,
           comments: [
             {
